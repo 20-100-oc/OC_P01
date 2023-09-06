@@ -1,4 +1,4 @@
-# OC Projet 1: Réinventons l'expérience client
+# Projet: Réinventons l'expérience client
 
 ## Contexte
 
