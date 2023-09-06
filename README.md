@@ -11,10 +11,10 @@ Le chatbot sera en contact avec les utilisateurs du site pour répondre instanta
 Prédire le language d'un texte grâce au service cognitif Microsoft Azure.
 
 
-## Livrable
+## Livrables
 
 - Scripts d'interaction avec l'API du service cognitif (deux méthodes: Python et Curl)
-- Scripts de création d'une matrice de confusion
+- Scripts de création d'une matrice de confusion à partir des textes envoyés et réponses reçues
 
 
 ## Outils
