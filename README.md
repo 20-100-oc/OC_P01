@@ -6,19 +6,19 @@ Le chatbot sera en contact avec les utilisateurs du site pour répondre instanta
 Le but est d'utiliser un modèle pré-entraîné sur le cloud pour prédire en direct la langue d'un utilisateur.
 
 ## Tâches
-- Prédire le language d'un texte grâce au Service cognitif d'Azure
+- Prédire le langage d'un texte grâce au Service cognitif d'Azure
 - Développer des scripts pour interagir avec l'API du Service cognitif
-- Visualiser et évaluer la qualité des prédiction
+- Visualiser et évaluer la qualité des prédictions
 
 ## Livrables
 - Scripts d'interaction (Python et Curl)
-- Scripts de d'évaluation du modèle
+- Scripts d'évaluation du modèle
 - Présentation PowerPoint
 
 ## Outils
 - Python
 - Curl
-- Service cognitif Miscrosft Azure
+- Service cognitif Microsoft Azure
 - PowerPoint
 
 ### Python : libraires additionnelles
