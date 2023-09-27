@@ -1,18 +1,30 @@
-# Projet: Réinventons l'expérience client
+# Projet 1: Réinventons l'expérience client
 
 ## Contexte
 Participation à la création d'un chatbot polyglotte pour une banque.
 Le chatbot sera en contact avec les utilisateurs du site pour répondre instantanément à leurs demandes.
+Le but est d'utiliser un modèle pré-entraîné sur le cloud pour prédire en direct la langue d'un utilisateur.
 
-## Objectif
-Prédire le language d'un texte grâce au service cognitif Microsoft Azure.
+## Objectifs
+- Prédire le language d'un texte grâce au Service cognitif d'Azure
+- Intéragir avec le 
 
 ## Livrables
-- Scripts d'interaction avec l'API du service cognitif (deux méthodes: Python et Curl)
-- Scripts de création d'une matrice de confusion à partir des textes envoyés et réponses reçues
-- Présentation
+- Scripts d'interaction avec l'API du service cognitif:
+  - script Python
+  - script Curl
+- Scripts de création de matrice de confusion à partir des prédiction du Service cognitif Azure
+- Présentation PowerPoint
 
 ## Outils
 - Python
+- PowerPoint
+- Service cognitif Miscrosft Azure
 - Curl
-- Service cognitif Azure
+- Python
+  - numpy
+  - requests
+
+### Python: libraires additionnelles
+- numpy
+- requests
