@@ -1,4 +1,4 @@
-# Projet 1: Réinventons l'expérience client
+# Projet: Réinventons l'expérience client
 
 ## Contexte
 Participation à la création d'un chatbot polyglotte pour une banque.
